@@ -133,7 +133,7 @@ Get random quote [try in browser](https://api.quotable.io/quotes/random)
 GET /quotes/random
 ```
 
-Get 5 random quotes [try in browser](https://api.quotable.io/quotes/random?limit=3)
+Get 3 random quotes [try in browser](https://api.quotable.io/quotes/random?limit=3)
 
 ```HTTP
 GET /quotes/random?limit=3
